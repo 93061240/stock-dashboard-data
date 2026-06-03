@@ -1,15 +1,7 @@
+
 {
   "asOf": "2026-06-02T00:00:00Z",
-  "market": {
-    "name": "US",
-    "status": "test",
-    "dataAgeSec": 0
-  },
   "bigtech": [],
-  "ai10": [],
-  "rebalance": {
-    "lastRun": null,
-    "nextRun": null,
-    "changes": []
-  }
+  "ai_ten": [],
+  "rebalance_logs": []
 }
